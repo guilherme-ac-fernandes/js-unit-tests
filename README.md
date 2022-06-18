@@ -18,11 +18,11 @@ trabalho na Trybe e mando muito em programação!
 #VQV!
 ```
 
-`circle`: (implementar os casos de teste) função criada pela Trybe que recebe o raio de um círculo e retorna um objeto contendo suas informações (raio, área e circunferência). 
+`circle`: (implementar os casos de teste) função criada pela Trybe que recebe o raio de um círculo e retorna um `objeto` contendo suas informações (raio, área e circunferência). 
 
-`createStudent`: (implementar função) que recebe como parâmetro um nome, e retorna um objeto contendo duas chaves: (1) name, contendo o nome passado como parâmetro; e (2) feedback, contendo uma função que retorna a frase 'Eita pessoa boa!' ao ser chamada.
+`createStudent`: (implementar função) que recebe como parâmetro um nome, e retorna um `objeto` contendo duas chaves: (1) name, contendo o nome passado como parâmetro; e (2) feedback, contendo uma função que retorna a frase 'Eita pessoa boa!' ao ser chamada.
 
-`productDetails`: (implementar os casos de teste) função que recebe duas `strings` que representam nomes de produtos, e retorna um `array` contendo dois objetos com os detalhes dos respectivos produtos:
+`productDetails`: (implementar os casos de teste) função que recebe duas `strings` que representam nomes de produtos, e retorna um `array` contendo dois `objetos` com os detalhes dos respectivos produtos:
 
 ```
 [
@@ -39,8 +39,9 @@ trabalho na Trybe e mando muito em programação!
     }
   }
 ]
+```
 
-`calculator`: (implementar função) que recebe dois números inteiros como parâmetro e retorna um objeto com as seguintes chaves: (1) sum - com a soma dos valores; (2) mult - com a multiplicação; (3) div - com a divisão e (4) sub - com a subtração.
+`calculator`: (implementar função) que recebe dois números inteiros como parâmetro e retorna um `objeto` com as seguintes chaves: (1) sum - com a soma dos valores; (2) mult - com a multiplicação; (3) div - com a divisão e (4) sub - com a subtração.
 
 `arrayGenerator`: (implementar função) função que converte `objetos` em `arrays`, de chaves, valores ou ambos. Ela deve receber dois parâmetros, onde: (1) o primeiro parâmetro deve ser uma `string` que indica o tipo de conversão e (2) segundo parâmetro deve ser um `objeto`.
 
