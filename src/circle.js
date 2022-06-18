@@ -1,5 +1,3 @@
-/* eslint-disable max-len */
-
 /*
   Essa função recebe o raio de um círculo,
   retornando um objeto contendo suas informações (Raio, Área e Circunferência).
